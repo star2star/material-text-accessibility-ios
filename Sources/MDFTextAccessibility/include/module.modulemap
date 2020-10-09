@@ -1,0 +1,5 @@
+module MDFTextAccessibility {
+  requires objc, objc_arc
+  header "../src/MDFTextAccessibility.h"
+  header "../src/MDFTextAccessibility-Bridging-Header.h"
+}
