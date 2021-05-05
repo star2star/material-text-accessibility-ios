@@ -16,9 +16,9 @@
 
 #import "MDFTextAccessibility.h"
 
-#import "MDFColorCalculations.h"
-#import "MDFImageCalculations.h"
-#import "NSArray+MDFUtils.h"
+#import "private/MDFColorCalculations.h"
+#import "private/MDFImageCalculations.h"
+#import "private/NSArray+MDFUtils.h"
 
 static const CGFloat kMinContrastRatioNormalText = 4.5f;
 static const CGFloat kMinContrastRatioLargeText = 3.0f;
